@@ -23,6 +23,10 @@ Este trabalho usou as seguintes tecnologias:
 
 - [Python](https://www.python.org/)
 - [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
+- [Mysql-Connector-Python](https://pypi.org/project/mysql-connector-python/)
+- [Mysql-Client](https://pypi.org/project/mysqlclient/)
+
+
 
 
 ### Instalação
@@ -36,23 +40,22 @@ https://www.python.org/downloads/
 - Clonando repositório:
 
 ```sh
-git https://github.com/Luis-Felipe-N/trabalho-es.git
+git clone https://github.com/Luis-Felipe-N/trabalho-es.git
 ```
 
-- Instalando dependência no Windows:
+- Instalando dependências no Windows:
 
 ```sh
 pip install -r dependecias.txt
 ```
 
-- Instalando dependência no Linux:
+- Instalando dependências no Linux:
 
 ```sh
 pip3 install -r -r dependecias.txt
 ```
 
-## Autor
----
+## Autores
 
 <div style="display: flex" align="center">
     <p align="center">
