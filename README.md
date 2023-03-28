@@ -22,7 +22,7 @@ Desenvolver uma aplicação pública no GitHub que contenha as seguintes camadas
 Este trabalho usou as seguintes tecnologias:
 
 - [Python](https://www.python.org/)
-- [Tkinter](https://docs.python.org/3/library/tkinter.html)
+- [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter)
 
 
 ### Instalação
@@ -42,13 +42,13 @@ git https://github.com/Luis-Felipe-N/trabalho-es.git
 - Instalando dependência no Windows:
 
 ```sh
-pip install depencias...
+pip install -r dependecias.txt
 ```
 
 - Instalando dependência no Linux:
 
 ```sh
-pip3 install depencias...
+pip3 install -r -r dependecias.txt
 ```
 
 ## Autor
@@ -68,7 +68,6 @@ pip3 install depencias...
         <a title="Anderson Freitas">
             🚀 <b>Anderson Freitas</b>
         </a>
-    
     </p>
 </div>
 
