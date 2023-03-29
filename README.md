@@ -52,7 +52,7 @@ pip install -r dependecias.txt
 - Instalando dependências no Linux:
 
 ```sh
-pip3 install -r -r dependecias.txt
+pip3 install -r dependecias.txt
 ```
 
 ## Autores
