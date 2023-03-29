@@ -1,5 +1,3 @@
-#!/usr/bin/python
-
 import mysql.connector
 
 #conexão com banco de dados
